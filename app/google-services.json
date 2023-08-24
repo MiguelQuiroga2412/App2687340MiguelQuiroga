@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157375155124",
+    "project_id": "desarrollomovilnativo-4e1f5",
+    "storage_bucket": "desarrollomovilnativo-4e1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157375155124:android:a5e7151b1c25b0178bc0e1",
+        "android_client_info": {
+          "package_name": "co.edu.sena.app2687340miguelquiroga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157375155124-t3r8uej0m89c6145fail8ajevt35bc9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAsXGHdci6zNpor9MWQlQzPW7vVNavzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157375155124-t3r8uej0m89c6145fail8ajevt35bc9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

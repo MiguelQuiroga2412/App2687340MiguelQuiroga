@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "App2687340MiguelQuiroga"
 include ':app'
+include ':modulouno'
+include ':lib'
